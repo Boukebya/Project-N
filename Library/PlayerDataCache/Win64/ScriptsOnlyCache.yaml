@@ -30,8 +30,11 @@ ScriptsOnlyBuild:
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
     - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.AnimatorStateTransitionInspector
+    - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
     - UnityEditor.Graphs.AnimationStateMachine.Graph
     - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.StateNode
     - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
@@ -117,31 +120,31 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1550}
+      Script: {instanceID: 1806}
     - Class: 114
-      Script: {instanceID: 1976}
+      Script: {instanceID: 2176}
     - Class: 114
-      Script: {instanceID: 2662}
+      Script: {instanceID: 2832}
     - Class: 114
-      Script: {instanceID: 2892}
+      Script: {instanceID: 3050}
     - Class: 114
-      Script: {instanceID: 3810}
+      Script: {instanceID: 3934}
     - Class: 114
-      Script: {instanceID: 5110}
+      Script: {instanceID: 5188}
     - Class: 114
-      Script: {instanceID: 5198}
+      Script: {instanceID: 5270}
     - Class: 114
-      Script: {instanceID: 5344}
+      Script: {instanceID: 5408}
     - Class: 114
-      Script: {instanceID: 5964}
+      Script: {instanceID: 6008}
     - Class: 114
-      Script: {instanceID: 6118}
+      Script: {instanceID: 6162}
     - Class: 114
-      Script: {instanceID: 6466}
+      Script: {instanceID: 6494}
     - Class: 114
-      Script: {instanceID: 7538}
+      Script: {instanceID: 7540}
     - Class: 114
-      Script: {instanceID: 8060}
+      Script: {instanceID: 8046}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -198,37 +201,37 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1568}
+      Script: {instanceID: 1776}
     - Class: 114
-      Script: {instanceID: 1774}
+      Script: {instanceID: 1980}
     - Class: 114
-      Script: {instanceID: 1976}
+      Script: {instanceID: 2176}
     - Class: 114
-      Script: {instanceID: 2662}
+      Script: {instanceID: 2832}
     - Class: 114
-      Script: {instanceID: 2794}
+      Script: {instanceID: 2956}
     - Class: 114
-      Script: {instanceID: 3666}
+      Script: {instanceID: 3798}
     - Class: 114
-      Script: {instanceID: 3810}
+      Script: {instanceID: 3934}
     - Class: 114
-      Script: {instanceID: 4038}
+      Script: {instanceID: 4156}
     - Class: 114
-      Script: {instanceID: 4408}
+      Script: {instanceID: 4510}
     - Class: 114
-      Script: {instanceID: 5110}
+      Script: {instanceID: 5188}
     - Class: 114
-      Script: {instanceID: 5344}
+      Script: {instanceID: 5408}
     - Class: 114
-      Script: {instanceID: 5942}
+      Script: {instanceID: 5986}
     - Class: 114
-      Script: {instanceID: 6126}
+      Script: {instanceID: 6170}
     - Class: 114
-      Script: {instanceID: 6466}
+      Script: {instanceID: 6494}
     - Class: 114
-      Script: {instanceID: 7234}
+      Script: {instanceID: 7250}
     - Class: 114
-      Script: {instanceID: 7538}
+      Script: {instanceID: 7540}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 120
@@ -277,33 +280,33 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1550}
+      Script: {instanceID: 1806}
     - Class: 114
-      Script: {instanceID: 2226}
+      Script: {instanceID: 2410}
     - Class: 114
-      Script: {instanceID: 2354}
+      Script: {instanceID: 2536}
     - Class: 114
-      Script: {instanceID: 2662}
+      Script: {instanceID: 2832}
     - Class: 114
-      Script: {instanceID: 2892}
+      Script: {instanceID: 3050}
     - Class: 114
-      Script: {instanceID: 3196}
+      Script: {instanceID: 3346}
     - Class: 114
-      Script: {instanceID: 4168}
+      Script: {instanceID: 4276}
     - Class: 114
-      Script: {instanceID: 4280}
+      Script: {instanceID: 4384}
     - Class: 114
-      Script: {instanceID: 4556}
+      Script: {instanceID: 4654}
     - Class: 114
-      Script: {instanceID: 5344}
+      Script: {instanceID: 5408}
     - Class: 114
-      Script: {instanceID: 5964}
+      Script: {instanceID: 6008}
     - Class: 114
-      Script: {instanceID: 6118}
+      Script: {instanceID: 6162}
     - Class: 114
-      Script: {instanceID: 6466}
+      Script: {instanceID: 6494}
     - Class: 114
-      Script: {instanceID: 7716}
+      Script: {instanceID: 7714}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -323,22 +326,22 @@ ScriptsOnlyBuild:
   scriptHashData:
   - hash:
       serializedVersion: 2
-      Hash: a6e561615949734e9f12f9b61661f43e
-    assemblyName: UnityEngine.UI.dll
-    namespaceName: UnityEngine.UI
-    className: Image
-  - hash:
-      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UIElements
     className: PanelRaycaster
   - hash:
       serializedVersion: 2
-      Hash: b8666821cd60792b33d93f28f77cc805
+      Hash: 7b610355f1ef593b6da2d48b3e922624
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: Keypad
+  - hash:
+      serializedVersion: 2
+      Hash: a6e561615949734e9f12f9b61661f43e
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Image
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -815,7 +818,7 @@ ScriptsOnlyBuild:
     className: DictionaryAsset
   - hash:
       serializedVersion: 2
-      Hash: 03dd32b9a9833b4cd729baf49b515288
+      Hash: 2699893c43d03a7a5896f55547377373
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: Receiver
@@ -1412,4 +1415,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Start-Menu.unity
   - Assets/Scenes/SampleScene.unity
   - Assets/Scenes/Ending.unity
-  playerPath: C:/Users/sacha/Projet-3D-fin/Projet-3D2/builds/Projet-3D.exe
+  playerPath: C:/Users/sacha/Projet-3D-fin/Projet-3D2/builds/Projet-3D2.exe

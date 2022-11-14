@@ -18,7 +18,7 @@ public class Receiver : MonoBehaviour
         _anim = objectToControl.GetComponent<Animator>();
     }
 
-    public void Update()
+    public void FixedUpdate()
     {
         if (hitted)
         {
@@ -38,7 +38,7 @@ public class Receiver : MonoBehaviour
         }
 
         counter++;
-        if (counter > 20)
+        if (counter > 50)
         {
             hitted = false;
             counter = 0;
