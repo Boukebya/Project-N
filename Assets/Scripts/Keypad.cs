@@ -45,6 +45,11 @@ public class Keypad : MonoBehaviour
                 KeypadFunction();
             }
         }
+
+        if (!_isTyping)
+        {
+            gt.text = "";
+        }
         
     }
     
@@ -96,9 +101,9 @@ public class Keypad : MonoBehaviour
     IEnumerator ending()
     {
         yield return new WaitForSeconds(2);
-        roomLight.range = 0;
-        yield return new WaitForSeconds(2);
         playerLight.range = 0;
+        yield return new WaitForSeconds(2);
+        roomLight.range = 0;
         yield return new WaitForSeconds(2);
         SceneManager.LoadScene("Ending");
     }
