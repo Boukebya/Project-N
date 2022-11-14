@@ -30,7 +30,6 @@ ScriptsOnlyBuild:
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
     - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.AnimatorStateTransitionInspector
     - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
     - UnityEditor.Graphs.AnimationStateMachine.Graph
     - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
@@ -1415,4 +1414,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Start-Menu.unity
   - Assets/Scenes/SampleScene.unity
   - Assets/Scenes/Ending.unity
-  playerPath: C:/Users/sacha/Projet-3D-fin/Projet-3D2/builds/Projet-3D2.exe
+  playerPath: C:/Users/sacha/Project-N/Project-N/builds/Projet-3D2.exe

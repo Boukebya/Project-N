@@ -170,7 +170,7 @@
       "Annotation": "CopyFiles builds/Projet-3D2_Data/boot.config",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "Library/PlayerDataCache/Win/Data/boot.config"
+        "Library/PlayerDataCache/Win64/Data/boot.config"
       ],
       "Outputs": [
         "builds/Projet-3D2_Data/boot.config"
@@ -181,7 +181,7 @@
       "Annotation": "CopyFiles builds/Projet-3D2_Data/globalgamemanagers",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "Library/PlayerDataCache/Win/Data/globalgamemanagers"
+        "Library/PlayerDataCache/Win64/Data/globalgamemanagers"
       ],
       "Outputs": [
         "builds/Projet-3D2_Data/globalgamemanagers"
@@ -192,7 +192,7 @@
       "Annotation": "CopyFiles builds/Projet-3D2_Data/globalgamemanagers.assets",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "Library/PlayerDataCache/Win/Data/globalgamemanagers.assets"
+        "Library/PlayerDataCache/Win64/Data/globalgamemanagers.assets"
       ],
       "Outputs": [
         "builds/Projet-3D2_Data/globalgamemanagers.assets"
@@ -203,7 +203,7 @@
       "Annotation": "CopyFiles builds/Projet-3D2_Data/level0",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "Library/PlayerDataCache/Win/Data/level0"
+        "Library/PlayerDataCache/Win64/Data/level0"
       ],
       "Outputs": [
         "builds/Projet-3D2_Data/level0"
@@ -214,7 +214,7 @@
       "Annotation": "CopyFiles builds/Projet-3D2_Data/level0.resS",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "Library/PlayerDataCache/Win/Data/level0.resS"
+        "Library/PlayerDataCache/Win64/Data/level0.resS"
       ],
       "Outputs": [
         "builds/Projet-3D2_Data/level0.resS"
@@ -225,7 +225,7 @@
       "Annotation": "CopyFiles builds/Projet-3D2_Data/level1",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "Library/PlayerDataCache/Win/Data/level1"
+        "Library/PlayerDataCache/Win64/Data/level1"
       ],
       "Outputs": [
         "builds/Projet-3D2_Data/level1"
@@ -236,7 +236,7 @@
       "Annotation": "CopyFiles builds/Projet-3D2_Data/level2",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "Library/PlayerDataCache/Win/Data/level2"
+        "Library/PlayerDataCache/Win64/Data/level2"
       ],
       "Outputs": [
         "builds/Projet-3D2_Data/level2"
@@ -247,7 +247,7 @@
       "Annotation": "CopyFiles builds/Projet-3D2_Data/level2.resS",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "Library/PlayerDataCache/Win/Data/level2.resS"
+        "Library/PlayerDataCache/Win64/Data/level2.resS"
       ],
       "Outputs": [
         "builds/Projet-3D2_Data/level2.resS"
@@ -258,7 +258,7 @@
       "Annotation": "CopyFiles builds/Projet-3D2_Data/resources.assets",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "Library/PlayerDataCache/Win/Data/resources.assets"
+        "Library/PlayerDataCache/Win64/Data/resources.assets"
       ],
       "Outputs": [
         "builds/Projet-3D2_Data/resources.assets"
@@ -269,7 +269,7 @@
       "Annotation": "CopyFiles builds/Projet-3D2_Data/resources.assets.resS",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "Library/PlayerDataCache/Win/Data/resources.assets.resS"
+        "Library/PlayerDataCache/Win64/Data/resources.assets.resS"
       ],
       "Outputs": [
         "builds/Projet-3D2_Data/resources.assets.resS"
@@ -280,7 +280,7 @@
       "Annotation": "CopyFiles builds/Projet-3D2_Data/RuntimeInitializeOnLoads.json",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "Library/PlayerDataCache/Win/Data/RuntimeInitializeOnLoads.json"
+        "Library/PlayerDataCache/Win64/Data/RuntimeInitializeOnLoads.json"
       ],
       "Outputs": [
         "builds/Projet-3D2_Data/RuntimeInitializeOnLoads.json"
@@ -291,7 +291,7 @@
       "Annotation": "CopyFiles builds/Projet-3D2_Data/ScriptingAssemblies.json",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "Library/PlayerDataCache/Win/Data/ScriptingAssemblies.json"
+        "Library/PlayerDataCache/Win64/Data/ScriptingAssemblies.json"
       ],
       "Outputs": [
         "builds/Projet-3D2_Data/ScriptingAssemblies.json"
@@ -302,7 +302,7 @@
       "Annotation": "CopyFiles builds/Projet-3D2_Data/sharedassets0.assets",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "Library/PlayerDataCache/Win/Data/sharedassets0.assets"
+        "Library/PlayerDataCache/Win64/Data/sharedassets0.assets"
       ],
       "Outputs": [
         "builds/Projet-3D2_Data/sharedassets0.assets"
@@ -313,7 +313,7 @@
       "Annotation": "CopyFiles builds/Projet-3D2_Data/sharedassets0.assets.resS",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "Library/PlayerDataCache/Win/Data/sharedassets0.assets.resS"
+        "Library/PlayerDataCache/Win64/Data/sharedassets0.assets.resS"
       ],
       "Outputs": [
         "builds/Projet-3D2_Data/sharedassets0.assets.resS"
@@ -324,7 +324,7 @@
       "Annotation": "CopyFiles builds/Projet-3D2_Data/sharedassets1.assets",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "Library/PlayerDataCache/Win/Data/sharedassets1.assets"
+        "Library/PlayerDataCache/Win64/Data/sharedassets1.assets"
       ],
       "Outputs": [
         "builds/Projet-3D2_Data/sharedassets1.assets"
@@ -335,7 +335,7 @@
       "Annotation": "CopyFiles builds/Projet-3D2_Data/sharedassets1.assets.resS",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "Library/PlayerDataCache/Win/Data/sharedassets1.assets.resS"
+        "Library/PlayerDataCache/Win64/Data/sharedassets1.assets.resS"
       ],
       "Outputs": [
         "builds/Projet-3D2_Data/sharedassets1.assets.resS"
@@ -346,7 +346,7 @@
       "Annotation": "CopyFiles builds/Projet-3D2_Data/sharedassets1.resource",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "Library/PlayerDataCache/Win/Data/sharedassets1.resource"
+        "Library/PlayerDataCache/Win64/Data/sharedassets1.resource"
       ],
       "Outputs": [
         "builds/Projet-3D2_Data/sharedassets1.resource"
@@ -357,7 +357,7 @@
       "Annotation": "CopyFiles builds/Projet-3D2_Data/sharedassets2.assets",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "Library/PlayerDataCache/Win/Data/sharedassets2.assets"
+        "Library/PlayerDataCache/Win64/Data/sharedassets2.assets"
       ],
       "Outputs": [
         "builds/Projet-3D2_Data/sharedassets2.assets"
@@ -368,7 +368,7 @@
       "Annotation": "CopyFiles builds/Projet-3D2_Data/Resources/unity_builtin_extra",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "Library/PlayerDataCache/Win/Data/Resources/unity_builtin_extra"
+        "Library/PlayerDataCache/Win64/Data/Resources/unity_builtin_extra"
       ],
       "Outputs": [
         "builds/Projet-3D2_Data/Resources/unity_builtin_extra"
@@ -1614,7 +1614,7 @@
       "Annotation": "CopyFiles builds/Projet-3D2_Data/Resources/unity default resources",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win32_player_nondevelopment_mono/Data/Resources/unity default resources"
+        "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/Data/Resources/unity default resources"
       ],
       "Outputs": [
         "builds/Projet-3D2_Data/Resources/unity default resources"
@@ -1633,13 +1633,13 @@
       "DebugActionIndex": 133
     },
     {
-      "Annotation": "CopyFiles builds/UnityCrashHandler32.exe",
+      "Annotation": "CopyFiles builds/UnityCrashHandler64.exe",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win32_player_nondevelopment_mono/UnityCrashHandler32.exe"
+        "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/UnityCrashHandler64.exe"
       ],
       "Outputs": [
-        "builds/UnityCrashHandler32.exe"
+        "builds/UnityCrashHandler64.exe"
       ],
       "DebugActionIndex": 134
     },
@@ -1647,7 +1647,7 @@
       "Annotation": "CopyFiles builds/UnityPlayer.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win32_player_nondevelopment_mono/UnityPlayer.dll"
+        "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/UnityPlayer.dll"
       ],
       "Outputs": [
         "builds/UnityPlayer.dll"
@@ -1658,7 +1658,7 @@
       "Annotation": "CopyFiles builds/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win32_player_nondevelopment_mono/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll"
+        "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll"
       ],
       "Outputs": [
         "builds/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll"
@@ -1669,7 +1669,7 @@
       "Annotation": "CopyFiles builds/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win32_player_nondevelopment_mono/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll"
+        "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll"
       ],
       "Outputs": [
         "builds/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll"
@@ -1680,7 +1680,7 @@
       "Annotation": "CopyFiles builds/MonoBleedingEdge/etc/mono/browscap.ini",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win32_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/browscap.ini"
+        "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/browscap.ini"
       ],
       "Outputs": [
         "builds/MonoBleedingEdge/etc/mono/browscap.ini"
@@ -1691,7 +1691,7 @@
       "Annotation": "CopyFiles builds/MonoBleedingEdge/etc/mono/config",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win32_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/config"
+        "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/config"
       ],
       "Outputs": [
         "builds/MonoBleedingEdge/etc/mono/config"
@@ -1702,7 +1702,7 @@
       "Annotation": "CopyFiles builds/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win32_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx"
+        "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx"
       ],
       "Outputs": [
         "builds/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx"
@@ -1713,7 +1713,7 @@
       "Annotation": "CopyFiles builds/MonoBleedingEdge/etc/mono/2.0/machine.config",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win32_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/2.0/machine.config"
+        "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/2.0/machine.config"
       ],
       "Outputs": [
         "builds/MonoBleedingEdge/etc/mono/2.0/machine.config"
@@ -1724,7 +1724,7 @@
       "Annotation": "CopyFiles builds/MonoBleedingEdge/etc/mono/2.0/settings.map",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win32_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/2.0/settings.map"
+        "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/2.0/settings.map"
       ],
       "Outputs": [
         "builds/MonoBleedingEdge/etc/mono/2.0/settings.map"
@@ -1735,7 +1735,7 @@
       "Annotation": "CopyFiles builds/MonoBleedingEdge/etc/mono/2.0/web.config",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win32_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/2.0/web.config"
+        "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/2.0/web.config"
       ],
       "Outputs": [
         "builds/MonoBleedingEdge/etc/mono/2.0/web.config"
@@ -1746,7 +1746,7 @@
       "Annotation": "CopyFiles builds/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win32_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser"
+        "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser"
       ],
       "Outputs": [
         "builds/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser"
@@ -1757,7 +1757,7 @@
       "Annotation": "CopyFiles builds/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win32_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx"
+        "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx"
       ],
       "Outputs": [
         "builds/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx"
@@ -1768,7 +1768,7 @@
       "Annotation": "CopyFiles builds/MonoBleedingEdge/etc/mono/4.0/machine.config",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win32_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/4.0/machine.config"
+        "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/4.0/machine.config"
       ],
       "Outputs": [
         "builds/MonoBleedingEdge/etc/mono/4.0/machine.config"
@@ -1779,7 +1779,7 @@
       "Annotation": "CopyFiles builds/MonoBleedingEdge/etc/mono/4.0/settings.map",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win32_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/4.0/settings.map"
+        "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/4.0/settings.map"
       ],
       "Outputs": [
         "builds/MonoBleedingEdge/etc/mono/4.0/settings.map"
@@ -1790,7 +1790,7 @@
       "Annotation": "CopyFiles builds/MonoBleedingEdge/etc/mono/4.0/web.config",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win32_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/4.0/web.config"
+        "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/4.0/web.config"
       ],
       "Outputs": [
         "builds/MonoBleedingEdge/etc/mono/4.0/web.config"
@@ -1801,7 +1801,7 @@
       "Annotation": "CopyFiles builds/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win32_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser"
+        "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser"
       ],
       "Outputs": [
         "builds/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser"
@@ -1812,7 +1812,7 @@
       "Annotation": "CopyFiles builds/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win32_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx"
+        "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx"
       ],
       "Outputs": [
         "builds/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx"
@@ -1823,7 +1823,7 @@
       "Annotation": "CopyFiles builds/MonoBleedingEdge/etc/mono/4.5/machine.config",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win32_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/4.5/machine.config"
+        "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/4.5/machine.config"
       ],
       "Outputs": [
         "builds/MonoBleedingEdge/etc/mono/4.5/machine.config"
@@ -1834,7 +1834,7 @@
       "Annotation": "CopyFiles builds/MonoBleedingEdge/etc/mono/4.5/settings.map",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win32_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/4.5/settings.map"
+        "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/4.5/settings.map"
       ],
       "Outputs": [
         "builds/MonoBleedingEdge/etc/mono/4.5/settings.map"
@@ -1845,7 +1845,7 @@
       "Annotation": "CopyFiles builds/MonoBleedingEdge/etc/mono/4.5/web.config",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win32_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/4.5/web.config"
+        "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/4.5/web.config"
       ],
       "Outputs": [
         "builds/MonoBleedingEdge/etc/mono/4.5/web.config"
@@ -1856,7 +1856,7 @@
       "Annotation": "CopyFiles builds/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win32_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser"
+        "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser"
       ],
       "Outputs": [
         "builds/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser"
@@ -1867,7 +1867,7 @@
       "Annotation": "CopyFiles builds/MonoBleedingEdge/etc/mono/mconfig/config.xml",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win32_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/mconfig/config.xml"
+        "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/mconfig/config.xml"
       ],
       "Outputs": [
         "builds/MonoBleedingEdge/etc/mono/mconfig/config.xml"
@@ -2169,10 +2169,10 @@
       "File": "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport"
     },
     {
-      "File": "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win32_player_nondevelopment_mono"
+      "File": "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono"
     },
     {
-      "File": "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win32_player_nondevelopment_mono/Data/Resources"
+      "File": "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/Data/Resources"
     },
     {
       "File": "Library/Bee/Playerb89a3fba-inputdata.json"
@@ -2187,18 +2187,18 @@
       "Path": "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport"
     },
     {
-      "Path": "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win32_player_nondevelopment_mono",
+      "Path": "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono",
       "Recurse": 1
     },
     {
-      "Path": "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win32_player_nondevelopment_mono/Data/Resources",
+      "Path": "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/Data/Resources",
       "Recurse": 1
     },
     {
       "Path": "C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/Tools/BuildPipeline"
     },
     {
-      "Path": "Library/PlayerDataCache/Win/Data",
+      "Path": "Library/PlayerDataCache/Win64/Data",
       "Recurse": 1
     },
     {
